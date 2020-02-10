@@ -1,0 +1,2 @@
+npm insatll
+npm start
